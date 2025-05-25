@@ -2,6 +2,8 @@
 
 A modern, interactive React application that helps you organize and track your travel items with style.
 
+## Live: https://travel-list-murex-theta.vercel.app/
+
 ## 🌟 Features
 
 - **Interactive Packing List**: Easy-to-use interface for managing your travel items
