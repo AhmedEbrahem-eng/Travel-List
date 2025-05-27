@@ -38,10 +38,10 @@ export default function Item({ item, onDeleteItem, onToggleItem }) {
     });
 
     toast.fire({
-      icon: item.packed ? 'success' : 'info',
+      icon: item.packed ? 'info' : 'success',
       title: item.packed ? 
-        `${item.description} marked as packed! 🎉` : 
-        `${item.description} marked as unpacked 📦`
+        `${item.description} marked as unpacked 📦` : 
+        `${item.description} marked as packed! 🎉 `
     });
   };
 
