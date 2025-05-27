@@ -2,7 +2,7 @@
 
 A modern, interactive React application that helps you organize and track your travel items with style.
 
-## Live: https://travel-list-murex-theta.vercel.app/
+## Live: https://travel-list-plum-eight.vercel.app/
 
 ## 🌟 Features
 
